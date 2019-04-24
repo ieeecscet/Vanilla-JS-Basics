@@ -277,6 +277,7 @@ For more info [click here](https://www.w3schools.com/jsref/dom_obj_all.asp)
 
  # >2.1.Get Started
  Here's how our calculator is supposed to look like:
+ 
  <img src="./src/final-adj.png" >
 
  ## >2.1.1.The basic Html page
