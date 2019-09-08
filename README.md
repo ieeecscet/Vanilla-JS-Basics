@@ -1,6 +1,6 @@
 
 # Vanilla Javascript
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.pngg" alt="drawing" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="drawing" width="200"/>
 
 #### Introduction:
 VanillaJS is a term for library/framework free javascript. 
